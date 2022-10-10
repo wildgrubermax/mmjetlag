@@ -32,7 +32,6 @@ gmtdf['gmtOffset'] = gmtdf['gmtOffset'].divide(60)
 #    print(value)
 
 attendees = ((6,100),(5,1),(5,2))
-cities = (("a",5),("b",0),("c",-5))
 
 #print(df)
 
